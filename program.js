@@ -1,0 +1,1 @@
+var cool = 1
